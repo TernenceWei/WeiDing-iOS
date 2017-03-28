@@ -1,0 +1,35 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "d757fae2-5a85-4ac3-9f0f-e11022d45282++3690",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "d757fae2-5a85-4ac3-9f0f-e11022d45282++3690" : {
+
+    },
+    "d757fae2-5a85-4ac3-9f0f-e11022d45282++9563" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "d757fae2-5a85-4ac3-9f0f-e11022d45282++3690" : 0,
+    "d757fae2-5a85-4ac3-9f0f-e11022d45282++9563" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "50F970CD-2A82-4B92-BE9E-02DD727C1097",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "d757fae2-5a85-4ac3-9f0f-e11022d45282++3690" : "WeiLv\/",
+    "d757fae2-5a85-4ac3-9f0f-e11022d45282++9563" : "WeiLvDJSNew\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "WeiLvDJS",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "WeiLvDJS.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/202.104.102.7",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "d757fae2-5a85-4ac3-9f0f-e11022d45282++3690"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/202.104.102.7",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "d757fae2-5a85-4ac3-9f0f-e11022d45282++9563"
+    }
+  ]
+}
