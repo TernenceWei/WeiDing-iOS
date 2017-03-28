@@ -17,6 +17,7 @@
 
 @end
 /*
+ test
 上线流程
 1.iTunes创建新版本
 2.AppDelegate打开正式环境开关

@@ -29,6 +29,11 @@
 			<key>orderHint</key>
 			<integer>2</integer>
 		</dict>
+		<key>Pods-WeiLvDJS.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
 		<key>Pods.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -42,6 +47,16 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>04CF549EBEEE7BC87AEAE35397184D94</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>175B076ED45EB1A3E40F58BA14036467</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>31C36CE9E04C3A4C62814712772466D9</key>
 		<dict>
 			<key>primary</key>
@@ -57,6 +72,11 @@
 			<key>primary</key>
 			<true/>
 		</dict>
+		<key>78045DF705A375A2EDB7EEEFDC4BA75C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>91DF0C6A976829503755909A476C3E9A</key>
 		<dict>
 			<key>primary</key>
@@ -67,7 +87,27 @@
 			<key>primary</key>
 			<true/>
 		</dict>
+		<key>9DC8D9E02903E93BD0B2FEC9D846EA20</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9E033EDB5EC0819481B0546434FA577B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>9EAB3E42EF957541E6C3C76D35FD008E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A316B54C67E947D23CECD230FA5BFAEF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E4E33EDF93C4E05DF80194AD704E84EC</key>
 		<dict>
 			<key>primary</key>
 			<true/>
